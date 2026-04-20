@@ -27,20 +27,6 @@ Tracking health and fitness data is fragmented across dozens of apps that don't 
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-nutritrack-db/
-├── schema.sql          # 13 tables, indexes, 6 views
-├── seed.sql            # Realistic sample data (200+ rows)
-├── queries.sql         # 16 queries covering all SQL concepts
-├── report/
-│   └── nutritrack_milestone_report.pdf
-└── README.md
-```
-
----
-
 ## 🏗️ Database Schema — 13 Tables
 
 ### 👤 User & Goals
