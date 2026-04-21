@@ -191,3 +191,6 @@ WHERE s.type = 'table';
 
 ---
 
+## Contribution by Kenan
+
+- Added initial contribution to the project
